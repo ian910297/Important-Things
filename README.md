@@ -1,4 +1,7 @@
 # Important-Things
 
-* note.txt  
-Store quotes, which are important to me  
+* quotes.txt  
+Store quotes, which are important to me
+
+* dead.txt
+Nothing
